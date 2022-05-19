@@ -6,8 +6,8 @@ export default function Footer() {
         target='_blank'
         rel='noopener noreferrer'
       >
-        Learn web3 dev and earn crypto rewards at{" "}
-        <span>Pointer</span>
+        You are so{" "}
+        <span>FANCY 😍</span>
       </a>
     </footer>
   )
